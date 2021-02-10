@@ -1,0 +1,17 @@
+---
+title: "Alvaro Diaz"
+image: "DSC_0999(1).jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/AlvaroDiaz"
+  - label: Twitter
+    url: "https://twitter.com/AlvaroDiaz"
+  - label: GitHub
+    url: "https://github.com/AlvaroDíaz"
+  - label: Email
+    url: "mailto:alvarodiazr98@hotmail.com"
+output:
+  postcards::jolla
+---
+ 
+Estudiante de Ingeniería Industrial de décimo ciclo en la Universidad de Lima
